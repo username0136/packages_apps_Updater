@@ -89,7 +89,7 @@
                     android:id="@+id/no_new_updates_view"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:drawableTop="@drawable/ic_warning"
+                    android:drawableTop="@drawable/ic_latest"
                     android:drawablePadding="15dp"
                     android:drawableTint="@color/theme_accent_2"
                     android:gravity="center"
