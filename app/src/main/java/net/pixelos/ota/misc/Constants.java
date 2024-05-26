@@ -29,8 +29,8 @@ public final class Constants {
     static final String PROP_AB_DEVICE = "ro.build.ab_update";
     static final String PROP_DEVICE = "ro.custom.device";
     static final String PROP_BUILD_VERSION = "net.pixelos.version";
-    static final String OTA_URL = "https://raw.githubusercontent.com/PixelOS-AOSP/official_devices/%s/API/updater/%s.json";
-    static final String MAINTAINER_URL = "https://github.com/%s";
-    static final String DOWNLOAD_WEBPAGE_URL = "https://pixelos.net/download/%s";
+    static final String OTA_URL = "https://raw.githubusercontent.com/username0136/res/main/POS/OTA.json";
+    static final String MAINTAINER_URL = "https://github.com/username0136";
+    static final String DOWNLOAD_WEBPAGE_URL = "https://t.me/PixelOS_munch";
     static final String EXPORT_PATH = "PixelOS-Updates/";
 }
